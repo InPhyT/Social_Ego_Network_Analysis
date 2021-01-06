@@ -2,18 +2,18 @@
 </p>
 
 <p align="center">
-    <img alt="Size" src="https://img.shields.io/github/repo-size/InPhyT/SocialPhysicsProject">
+    <img alt="Size" src="https://img.shields.io/github/repo-size/InPhyT/Social_Ego_Network_Analysis">
   </a>
-  <img alt="Forks" src="https://img.shields.io/github/forks/InPhyT/SocialPhysicsProject">
+  <img alt="Forks" src="https://img.shields.io/github/forks/InPhyT/Social_Ego_Network_Analysis">
   </a>
-  <img alt="Stars" src="https://img.shields.io/github/stars/InPhyT/SocialPhysicsProject">
+  <img alt="Stars" src="https://img.shields.io/github/stars/InPhyT/Social_Ego_Network_Analysis">
   </a>
-  <img alt="Languages" src="https://img.shields.io/github/languages/count/InPhyT/SocialPhysicsProject">
+  <img alt="Languages" src="https://img.shields.io/github/languages/count/InPhyT/Social_Ego_Network_Analysis">
   </a>
-  <a href="https://github.com/InPhyT/SocialPhysicsProject/graphs/contributors">
-  <img alt="Licence" src="https://img.shields.io/github/license/InPhyT/SocialPhysicsProject">
+  <a href="https://github.com/InPhyT/Social_Ego_Network_Analysis/graphs/contributors">
+  <img alt="Licence" src="https://img.shields.io/github/license/InPhyT/Social_Ego_Network_Analysis">
   </a>
-  <img alt="Twitter" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FInPhyT%2FSocialPhysicsProject"
+  <img alt="Twitter" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FInPhyT%2FSocial_Ego_Network_Analysis"
   </a>
   
 </p>
@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-  <a href="https://nbviewer.jupyter.org/github/InPhyT/SocialPhysicsProject/">
+  <a href="https://nbviewer.jupyter.org/github/InPhyT/Social_Ego_Network_Analysis/">
     <img alt="nbviewer" src="https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg">
   </a>
   <a href="https://colab.research.google.com/github/InPhyT/SocialPhysicsProject/blob/master">
