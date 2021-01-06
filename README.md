@@ -20,11 +20,12 @@
 
 <!-- Title -->
 <h1 align="center">
-  Ego Graph Analysis on Social Media
+  Social Network Analysis
 </h1>
 
 <!-- Subtitle -->
 <h2 align="center">
+  Ego Graph Analysis on Social Media
 </h2>
 
 <!-- Badges -->
@@ -34,7 +35,7 @@
   <a href="https://nbviewer.jupyter.org/github/InPhyT/Social_Ego_Network_Analysis/">
     <img alt="nbviewer" src="https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg">
   </a>
-  <a href="https://colab.research.google.com/github/InPhyT/SocialPhysicsProject/blob/master">
+  <a href="https://colab.research.google.com/github/InPhyT/Social_Ego_Network_Analysis/blob/master">
     <img alt="Colab" src="https://colab.research.google.com/assets/colab-badge.svg">
   </a>
   
