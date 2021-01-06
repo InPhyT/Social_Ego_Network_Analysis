@@ -1,8 +1,8 @@
 # Name of website
-title: Social Physics Project
+title: "Social Network Analysis"
 
 # Short description of your site
-description: Ego Graph Analysis on Facebook and Twitter
+description: "Ego Graph Analysis on Social Media"
 
 # Theme
 theme: jekyll-theme-cayman
