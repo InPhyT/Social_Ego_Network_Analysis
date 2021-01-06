@@ -24,9 +24,9 @@
 </h1>
 
 <!-- Subtitle -->
-<h2 align="center">
+<h3 align="center">
   Ego Graph Analysis on Social Media
-</h2>
+</h3>
 
 <!-- Badges -->
 </p>
